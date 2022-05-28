@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "entropay-4e6de",
+  "private_key_id": "94b7c908f82b671ac3a8ec4c3ecf1a718aa847b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCeW8pTmPLYrHjF\nPsAi8cr47/dpZEVqQAi4PGnownfiNVCx27DxYp+4VLtMZ/TfIkBTia40dBDA+pVV\n7FQbH5XFTdiTk7KXyWwNfnEFiP+jBXpFtyrkswal7x9Diixuax+CZD3gtT2gB7oa\nCJuy2QvbQWmPZyUKCg75JP4+5O2i9iN1+K3G4/OCDeI3EnWxZJrrnO+2fP81sJ/F\n1r05X32akfJCR2+6yomuqxoPHH45hgLutnLvzFzzYi05SR7SQrMWeOfurr5C3itv\nZ7xYyIWe50I/ykdZV2BLCuQ7LduOVnKuiVdwXBPYlvMO6u75WTUsi1oCfobh0vCl\nhz6Wev2tAgMBAAECggEAMQiB9u2acD3DLWv3KTrOGtOOu6rpFXObX5SRRJmGblwM\nzu2T9cIQa46M6iUcPMUJvvQYJTS1BVPxzoedKULX6J5oi5WFjJs5Ilp+23Rml084\nY4LKPMM0MUf/2bVceZogyQqJ4FyuJrGNzcbRkwjCs5KnAViyLtAbf8iVEttmu3jX\nolmrmACK4KUpCeWh1PQx643CP9fujCtC3Ezv9L5hMVOK+D/0lNhXKLzSuaXZyTBB\ncTKsRcc0beVT5vHHRlolRY7XUUZwfXR72AsUIfS/JFd8A5yGttFubU0Q2IPIinjQ\nzJlV2yyNl7c+qeq2EQ9FTxOO7hw4ON1Rqk78gnJ3jwKBgQDL2pJeaHS6FmDEI6jJ\nhHrcsPqV4WVT886me8TNbZH7FE44wu8nHPOTHf+dw6sOiExWCGmNkyytifXP9S0c\ndl3gJXsO8qFSGsmwpV3/jm/SuYY0qOK6lDzfucAPObkHsrx+jqpLC0fISlbqzIDP\nRrchv+WUB77n6ClcPrEOeB1n9wKBgQDG3fLpFIs0/X3zvmnozFJ45CCg0ydYWNbK\nLqpamloiuENa4kHzNk/E4/7WKvnmI4IxpZM6S9hu859ycA89VBX6jS0lCSAKJEux\npBxK6orx8njvoF81yB+Dh317PtKkW3R4NBrXE0gSdFvesHepE7/P8JHKUspKHbRS\nSELXW1fGewKBgHEVL6rlYRM1hLppWaFoN0ujdW6dWTtn/RPHhtW6WYehrP65zDaz\nTb8nnfvjZkmqfEYhZoRdxyQBavXQeRTX6J2FzSzulWTZbVbrdShl2ExaFEO0CAoe\nX2JwRUVs7OKDWSMPexIkEM7fxjV7+lyBSueS7wTeAx3cYM1GDawMH6vjAoGBAIob\nDxvRGY/WT0cbwJ9cbhXoj8RAf716DMhiOgor0Vb1Uklmgdhuql0Y3RxMwjmSBVOH\nIkTE8Wy0IdIuglbb81uJ+YUT3j1M0YhvaPqaAZ5e/p+jZxuJfGEykfEqQszDepIT\n1WPxzwaJ6lcvhBpWTcoRzp2Me1GXaWgPKOQ4Wi/LAoGAQjTuCrayqfyx/dMFUEMv\nfleUrG3WWx8oSjauvVfEFLCSZDOGOSd4GqzZcLdVnoy+NwkmLV5tgTelajjEvlwX\nAIGJwyKSyl5rxsvbYeeapwMihemg+HMW6BLsVcr5jEmWbwVP9LqzzzcBXff/Unr+\nbX+zli44F0v0gPbo8Fz/80M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yva3i@entropay-4e6de.iam.gserviceaccount.com",
+  "client_id": "116420290195630838920",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yva3i%40entropay-4e6de.iam.gserviceaccount.com"
+}
